@@ -3,9 +3,9 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Dhruv Karthik
+  * [LinkedIn](https://www.linkedin.com/in/dhruvkarthik/)
+* Tested on: Ubuntu 18.04, Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, 16GM, GTX 2070 
 
 ### (TODO: Your README)
 
