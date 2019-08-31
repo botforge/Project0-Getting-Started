@@ -9,5 +9,7 @@ Project 0 Getting Started
 
 ### Write-Up
 ![](images/webgl.jpg)
+![](images/cuda_run.png)
+
 
 
