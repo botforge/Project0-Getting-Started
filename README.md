@@ -5,10 +5,9 @@ Project 0 Getting Started
 
 * Dhruv Karthik
   * [LinkedIn](https://www.linkedin.com/in/dhruvkarthik/)
-* Tested on: Ubuntu 18.04, Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, 16GM, GTX 2070 
+* Tested on: Ubuntu 18.04, Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, 16GM, GTX 2070 - Compute Capability 7.5 (Personal Computer)
 
-### (TODO: Your README)
+### Write-Up
+![](images/webgl.jpg)
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
 
